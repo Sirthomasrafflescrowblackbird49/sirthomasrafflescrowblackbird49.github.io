@@ -776,3 +776,19 @@ a { color: inherit; text-decoration: none; }
     font-size:1.4rem;
     color:white;
 }
+.hero-features{
+    display:flex;
+    gap:16px;
+    margin-top:40px;
+    flex-wrap:wrap;
+}
+
+.feature-card{
+    background:white;
+    padding:16px 20px;
+    border-radius:16px;
+    border:1px solid #e5e7eb;
+    box-shadow:0 10px 25px rgba(0,0,0,.05);
+    font-size:.9rem;
+    font-weight:500;
+}
